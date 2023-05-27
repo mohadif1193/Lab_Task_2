@@ -1,0 +1,21 @@
+C:\Users\hp\source\repos\Lab Task 2\Lab Task 2\obj\Debug\net6.0-windows\Lab Task 2.vbproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Lab Task 2\Lab Task 2\obj\Debug\net6.0-windows\Lab_Task_2.frmlogin.resources
+C:\Users\hp\source\repos\Lab Task 2\Lab Task 2\obj\Debug\net6.0-windows\Lab_Task_2.Resources.resources
+C:\Users\hp\source\repos\Lab Task 2\Lab Task 2\obj\Debug\net6.0-windows\Lab Task 2.vbproj.GenerateResource.cache
+C:\Users\hp\source\repos\Lab Task 2\Lab Task 2\obj\Debug\net6.0-windows\Lab Task 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Lab Task 2\Lab Task 2\obj\Debug\net6.0-windows\Lab Task 2.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Lab Task 2\Lab Task 2\obj\Debug\net6.0-windows\Lab Task 2.AssemblyInfo.vb
+C:\Users\hp\source\repos\Lab Task 2\Lab Task 2\obj\Debug\net6.0-windows\Lab Task 2.vbproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Lab Task 2\Lab Task 2\bin\Debug\net6.0-windows\Lab Task 2.exe
+C:\Users\hp\source\repos\Lab Task 2\Lab Task 2\bin\Debug\net6.0-windows\Lab Task 2.deps.json
+C:\Users\hp\source\repos\Lab Task 2\Lab Task 2\bin\Debug\net6.0-windows\Lab Task 2.runtimeconfig.json
+C:\Users\hp\source\repos\Lab Task 2\Lab Task 2\bin\Debug\net6.0-windows\Lab Task 2.dll
+C:\Users\hp\source\repos\Lab Task 2\Lab Task 2\bin\Debug\net6.0-windows\Lab Task 2.pdb
+C:\Users\hp\source\repos\Lab Task 2\Lab Task 2\obj\Debug\net6.0-windows\Lab Task 2.dll
+C:\Users\hp\source\repos\Lab Task 2\Lab Task 2\obj\Debug\net6.0-windows\refint\Lab Task 2.dll
+C:\Users\hp\source\repos\Lab Task 2\Lab Task 2\obj\Debug\net6.0-windows\Lab Task 2.pdb
+C:\Users\hp\source\repos\Lab Task 2\Lab Task 2\obj\Debug\net6.0-windows\Lab Task 2.genruntimeconfig.cache
+C:\Users\hp\source\repos\Lab Task 2\Lab Task 2\obj\Debug\net6.0-windows\ref\Lab Task 2.dll
+C:\Users\hp\source\repos\Lab Task 2\Lab Task 2\obj\Debug\net6.0-windows\Lab_Task_2.frmInfo.resources
+C:\Users\hp\source\repos\Lab Task 2\Lab Task 2\obj\Debug\net6.0-windows\Lab_Task_2.Form3.resources
+C:\Users\hp\source\repos\Lab Task 2\Lab Task 2\obj\Debug\net6.0-windows\Lab_Task_2.Splash.resources
